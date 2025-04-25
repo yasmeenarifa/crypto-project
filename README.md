@@ -2,7 +2,7 @@
 
 A modern, responsive cryptocurrency tracking dashboard built with Next.js and Tailwind CSS. This application allows users to track cryptocurrency prices, market trends, and manage a virtual portfolio.
 
-![CryptoTracker Dashboard](https://placeholder.svg?height=400&width=800)
+🪙 CryptoTracker Dashboard
 
 ## Live Demo
 
